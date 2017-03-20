@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/.android/build-cache/90885abff74d8e636759024dea77b370a1264c02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8f3b07d4bfed5cb626c566f3a719363b875faae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/Data/github_projects/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_465ccea33561a811623a426e5d66720b978f4354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/.android/build-cache/ce3276ef793e33ba5e4a7fd48ec0729c856a5952/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ed766939c7576929f46533d311b28ab3cf9966f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/.android/build-cache/8d2c789fad3114cd69a0b686242d46ba2630c63d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1832854dc245231922a301366e4a727ce4bd3af8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/.android/build-cache/3d0b5b9211d33323db3c07be33db9273f30a3dc0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_357f561511b358968dc673a8a550a3a87bd1e285/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/.android/build-cache/f15df6235b673476a42365a59e78a05efb7ab625/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_836a602c16edac4b5297b551710bfe08faee28a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/.android/build-cache/8caddf9f63259a7e14694805a07e441e67b57fc9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb34f5a7feae0968d5aa45817206ab9ed94d1f4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/.android/build-cache/1afea65f94e2039e62b77f1da83d9d6b3155994f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3c906455a2bb07a494cbe4adb07cf22bd1eae96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_6a3191fe549c9edc350dbf4a6fbe87c16e926720/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/.android/build-cache/3b8340bfe4a2c7e93260c3ea6ac8efe0ed59bbb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfcf919f82338eb773df0426159976db16659023/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_8329aa5b778c4ec798783e58713bf72ba8192311/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/.android/build-cache/d179ba37561e4655c859a1dda1395bde49a299ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ce33531f7eb940f48ebca16b44f5ffd582f07d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/Data/github_projects/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7fb27036105df898ca12b1b052563273e769c36">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_81326b107748269f2aacdc55823e764ce9d4dd4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fabiovalerio/.android/build-cache/4e34e7d5f1bb2a375b61af3488d34fb243c50a34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/media/Data/github_projects/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d3abb218993c2c4ff41c42b105d53cb8f199b8dd/classes.dex" />
+    </item>
+
+</items>
